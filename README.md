@@ -224,9 +224,12 @@ The following functionalities were tested successfully:
 
 ## 👩‍💻 Developer
 
-**Khushi Shah**
+* **Khushi Shah**
+* **krisa Shah**
+* **Aasima Mansuri**
+* **Jinal Vachetta**
 
-M.Sc. Computer Science (Artificial Intelligence)
+M.Sc. Computer Science 
 
 ---
 
